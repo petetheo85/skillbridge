@@ -81,7 +81,7 @@ headers = [
 
 df = pd.DataFrame(all_data, columns=headers)
 df = df.drop(columns=['Actions', 'MOU Organization'])  # unnecessary columns
-excel_path = 'DoD_SkillBridge_Data2.xlsx'
+excel_path = 'DoD_SkillBridge_Data.xlsx'
 df.to_excel(excel_path, index=False)
 
 # Set standard column widths
