@@ -2,7 +2,7 @@
 
 ## Overview
 
-The [DoD Skillbrige](https://skillbridge.osd.mil) program is an initiative designed to provide service members with valuable civilian work experience through specific industry training, apprenticeships, or internships during their last 180 days of service. This program connects transitioning service members with industry partners, offering real-world job experiences at no cost to the industry partners. Service members continue to receive their military compensation and benefits while gaining invaluable civilian career training.
+The [DoD Skillbridge](https://skillbridge.osd.mil) program is an initiative designed to provide service members with valuable civilian work experience through specific industry training, apprenticeships, or internships during their last 180 days of service. This program connects transitioning service members with industry partners, offering real-world job experiences at no cost to the industry partners. Service members continue to receive their military compensation and benefits while gaining invaluable civilian career training.
 
 ## Why This Script Was Created
 
