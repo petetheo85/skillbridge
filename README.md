@@ -2,7 +2,7 @@
 
 ## Overview
 
-The DOD SkillBridge program is an initiative designed to provide service members with valuable civilian work experience through specific industry training, apprenticeships, or internships during their last 180 days of service. This program connects transitioning service members with industry partners, offering real-world job experiences at no cost to the industry partners. Service members continue to receive their military compensation and benefits while gaining invaluable civilian career training.
+The [DoD SkillBridge](https://skillbridge.osd.mil) program is an initiative designed to provide service members with valuable civilian work experience through specific industry training, apprenticeships, or internships during their last 180 days of service. This program connects transitioning service members with industry partners, offering real-world job experiences at no cost to the industry partners. Service members continue to receive their military compensation and benefits while gaining invaluable civilian career training.
 
 ## Why This Script Was Created
 
@@ -29,7 +29,7 @@ This script automates the process of scraping the SkillBridge opportunities from
 
 2. **Download ChromeDriver**:
    Ensure you have the Chrome browser installed, then download the corresponding ChromeDriver from [here](https://sites.google.com/a/chromium.org/chromedriver/downloads) and place it in your project directory.
-
+   
 ## Usage
 
 1. **Run the Script**:
